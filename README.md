@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![This is an image]()
+![This is an image](https://github.com/armandorgr/armandorgr/blob/main/Assets/tree-736885_1280.jpg?raw=true)
 
 <!--
 **armandorgr/armandorgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
